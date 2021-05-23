@@ -85,7 +85,7 @@ function Calculate({navigation}){
                 {
                     isCalculating ? (
                         <ActivityIndicator 
-                            siz={24}
+                            size={24}
                             color={Colors.whiteColor}
                         />
                     ):(
